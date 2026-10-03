@@ -17,6 +17,8 @@ python3 src/todo.py done 1
 - `fix/<assunto>` — correções
 - `docs/<assunto>` — documentação
 
+## Texto nada Importante
+
 ## Autor
 
 Hudson Silva
