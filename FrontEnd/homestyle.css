@@ -1,0 +1,27 @@
+h1 {
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+}
+
+section {
+    text-align: center;
+    background-color: bisque;
+    color: black;
+    border-radius: 4px;
+}
+
+li {
+    font-size: 20px;
+    text-align: left;
+}
+
+ul {
+    background-color: --var(Esteregg);
+    color: black;
+    gap: 4px;
+    padding: 10px;
+    margin: auto;
+    text-shadow: 3px;
+    font-weight: bold;
+}
