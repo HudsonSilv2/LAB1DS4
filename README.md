@@ -17,6 +17,10 @@ python3 src/todo.py done 1
 - `fix/<assunto>` — correções
 - `docs/<assunto>` — documentação
 
+## Texto Importante
+
+> Alteração super simples, porem com um grade contexto que não precisa de explicação, e sim só foi escrito pra encher linguiça pq eu tinha tempo de escrever o que viesse a mente no momento que estava organizando a atividade, e espero que não fique tão longo, pois nenhuma das informações aqui é deveras importante;
+
 ## Autor
 
 Hudson Silva
